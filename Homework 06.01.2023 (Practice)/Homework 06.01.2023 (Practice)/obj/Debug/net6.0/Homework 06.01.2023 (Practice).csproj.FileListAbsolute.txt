@@ -1,0 +1,15 @@
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\bin\Debug\net6.0\Homework 06.01.2023 (Practice).exe
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\bin\Debug\net6.0\Homework 06.01.2023 (Practice).deps.json
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\bin\Debug\net6.0\Homework 06.01.2023 (Practice).runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\bin\Debug\net6.0\Homework 06.01.2023 (Practice).dll
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\bin\Debug\net6.0\Homework 06.01.2023 (Practice).pdb
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).dll
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\refint\Homework 06.01.2023 (Practice).dll
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).pdb
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\Homework 06.01.2023 (Practice).genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Homework 06.01.2023 (Practice)\Homework 06.01.2023 (Practice)\obj\Debug\net6.0\ref\Homework 06.01.2023 (Practice).dll
